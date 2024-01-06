@@ -1,0 +1,1 @@
+print(" Salom mars "*3)
